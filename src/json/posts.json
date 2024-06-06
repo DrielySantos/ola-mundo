@@ -1,18 +1,18 @@
 [
     { "id": 1,
       "titulo": "Python: Origem",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
+      "texto": "Por que uma das linguagens de programação mais amada no mundo tem esse nome e    qual a origem dele? Tem relação com algum tipo de cobra? Descubra isso e muito mais neste artigo! \n\n ### Um pouco de história \n\n Guido Van Rossum criou o Python em 1989. Ele trabalhava no Centrum Voor Wiskunde en Informatica no início dos anos 1980, e seu trabalho era implementar a linguagem de programação conhecida como ABC." 
     },
     { "id": 2,
-      "titulo": "Python: Origem",
+      "titulo": "PHP",
       "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
     },
     { "id": 3,
-      "titulo": "Python: Origem",
+      "titulo": "Inteligência Artificial",
       "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
     },
     { "id": 4,
-      "titulo": "Python: Origem",
+      "titulo": "Java",
       "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
     },
     { "id": 5,
