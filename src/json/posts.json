@@ -1,34 +1,18 @@
 [
     { "id": 1,
-      "titulo": "Python: Origem",
-      "texto": "Por que uma das linguagens de programação mais amada no mundo tem esse nome e    qual a origem dele? Tem relação com algum tipo de cobra? Descubra isso e muito mais neste artigo! \n\n ### Um pouco de história \n\n Guido Van Rossum criou o Python em 1989. Ele trabalhava no Centrum Voor Wiskunde en Informatica no início dos anos 1980, e seu trabalho era implementar a linguagem de programação conhecida como ABC." 
+      "titulo": "Game of Thrones",
+      "texto": "### Como foi desenvolvido Game of Thrones \n\n No Programa ONE, a [Alura](https://www.alura.com.br/) me apresentou ao React, durante o curso de Front-end. E que curso, hein?! \n\n O primeiro projeto já foi íncrivel! Antes de começar a mexer com React, confesso que fiquei um pouco na dúvida se ia conseguir aprender essa biblioteca, mas o [Vinicios Neves](https://cursos.alura.com.br/user/viniciosneves), o instrutor, mandou muito bem e deixou tudo mais fácil. \n\n No projeto, a gente podia usar a criatividade à solta! Eu aproveitei para fazer algo inspirado em uma das minhas séries favoritas. \n\n Foi um passo gigante no meu aprendizado e, com certeza, vou usar tudo que aprendi no GoT para os próximos projetos! 😎 \n\n De tão contente que estou com esse projeto, quase dancei na rua! \n\n ![gif do Augostingo Carrara dançando](/assets/posts/1/gif.gif) \n\n E aí, bora dar uma olhada no meu projeto! Espero que você se divirta explorando ele, tanto quanto eu me diverti desenvolvendo! 🤩 \n\n Aqui deixo um spoiler de como é o Game of Thrones: \n\n ![Game of Thrones](/assets/posts/1/prtsc-got.png) \n\n Aqui está o [repositório](https://github.com/DrielySantos/game-of-thrones), caso queira dá uma olhadinha. \n\n E aqui o [deploy](https://game-of-thrones-gilt.vercel.app/) para conferir como ficou." 
     },
     { "id": 2,
-      "titulo": "PHP",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
+      "titulo": "Mundo Geek",
+      "texto": "### E-commerce Mundo Geek \n\n No programa ONE (Oracle + Alura), a gente teve a missão de desenvolver um e-commerce e aplicar o conceito de CRUD em um projeto real. E aí nasceu esse aqui!😄 \n\n Um dos desafios que encontrei foi fazer esse ícone 'excluir' funcionar de forma segura, programando a função que vai remover o item da seção de produtos e atualizar o site. \n\n Essa parte foi um pouco complicada, mas aprendi bastante sobre como programar com segurança e sobre como garantir que o site funcione como esperado! \n\n ![gif da Gretchen dançando](/assets/posts/2/gif.gif)\n\n Dê uma espiadinha no Mundo Geek: \n\n ![Mundo Geek](/assets/posts/2/prtsc-mundo-geek.png) \n\n Aqui está o [repositório](https://github.com/DrielySantos/mundo-geek) pra você dá uma conferida melhor! 😎"
     },
     { "id": 3,
-      "titulo": "Inteligência Artificial",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
+      "titulo": "Fokus",
+      "texto": "### Como nasceu o Fokus \n\n O projeto Fokus foi desenvolvido durante o curso de Front-end do programa ONE como uma ferramenta para aplicar os conhecimentos de JavaScript. 🤓 \n\n Esse projeto é inspirado na técnica Pomodoro, que visa a concentração em tarefas importantes. \n\n Dessa forma, concentramo-nos em uma atividade por 25 minutos, por exemplo, e após esse período, é possível pausar por 5 minutos ou optar por uma pausa mais longa de 15 minutos. \n\n ## Uma prévia do Fokus para despertar o interesse 🤭 \n\n ![Fokus](/assets/posts/3/fokus-prtsc.png) \n\n Trabalhar no Fokus foi uma experiência gratificante que me permitiu aprender e crescer, principalmente em relação ao meu conhecimento de JavaScript e manipulação do DOM. \n\n Deixo aqui o [repositório](https://github.com/DrielySantos/fokus) do projeto, caso queira dá uma olhadinha! 👀 \n\n E aqui está o [deploy](https://fokus-mu-nine.vercel.app/), para que você possa interagir com o Fokus! 🔊"
     },
     { "id": 4,
-      "titulo": "Java",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
-    },
-    { "id": 5,
-      "titulo": "Python: Origem",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
-    },
-    { "id": 6,
-      "titulo": "Python: Origem",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
-    },
-    { "id": 7,
-      "titulo": "Python: Origem",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
-    },
-    { "id": 8,
-      "titulo": "Python: Origem",
-      "texto": "Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum Lorem psum"
+      "titulo": "Portfólio",
+      "texto": "### Meu Portfólio \n\n Na Alura, me jogaram um desafio: criar meu portfólio. E deu certo! \n\n ![Boneco dançando](/assets/posts/4/gif-1.gif) \n\n Eu amei cada pequeno passo do desenvolvimento desse meu projeto, rolova alguns estresses (normal né 😅), mas a satisfação depois que vem quando finalmente algo dá certo, não tem preço! \n\n A responsividade me deu muito trabalho! O conteúdo do body ficava todo amontoado, e eu simplesmente não conseguia acertar. \n\n Aí você me pergunta: Então, Driely, como você resolveu esse estresse?...Pois aí te digo, era só uma width: 15rem, colocada no lugar errado. \n\n ![gatinho bolado e com luzes piscando](/assets/posts/4/gif-2.gif) \n\n Mas deu tudo certo no final, e o resultado ficou muito bom. Com o avanço nos meus estudos e conhecimento, com certeza vou aprimorar mais o meu portfólio e deixá-lo ainda mais com a minha personalidade. \n\n ## Fotografia 📸 \n\n ![imagem do portfólio](/assets/posts/4/prtsc-portfolio.png) \n\n ## Aqui você pode acessar: \n\n  [Deploy](https://drielysantos.github.io/portfolio-drielysantos/) \n\n [Repositório](https://github.com/DrielySantos/portfolio-drielysantos)"
     }
 ]
